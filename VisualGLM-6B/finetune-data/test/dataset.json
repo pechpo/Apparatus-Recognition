@@ -1,0 +1,2762 @@
+[
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/1.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/2.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/3.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/4.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/4.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/4.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/4.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/5.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/5.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/6.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/6.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/6.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/6.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/7.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/7.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/7.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/7.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/8.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/8.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/8.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/8.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/9.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/9.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/9.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/9.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/10.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/10.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/10.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/10.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/11.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/12.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/12.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/12.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/12.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/13.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/13.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/13.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/13.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/14.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/15.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/15.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/15.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/15.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/16.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/16.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/16.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/16.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/16.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/16.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/17.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/17.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/17.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/17.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/18.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/18.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/18.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/18.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/18.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/18.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/19.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/20.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/20.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/21.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/21.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/21.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/21.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/22.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/22.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/22.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/22.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/22.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/22.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/23.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/23.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/23.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/23.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/24.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/24.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/24.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/24.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/25.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/25.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/25.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/25.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/25.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/25.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/26.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/27.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/27.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/27.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/27.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/28.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/29.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/29.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/29.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/29.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/29.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/29.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/30.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/30.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/30.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/30.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/30.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/30.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/31.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/31.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/31.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/31.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/32.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/32.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/32.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/32.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/33.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/34.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/34.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/34.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/34.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/34.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/34.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/35.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/35.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/35.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/35.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/36.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/36.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/36.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/36.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/37.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/37.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/37.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/37.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/38.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/39.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/40.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/40.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/40.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/40.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/41.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/41.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/41.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/41.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/42.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/42.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/42.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/42.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/43.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/43.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/43.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/43.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/43.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/43.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/44.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/44.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/44.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/44.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/45.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/45.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/45.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/45.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/46.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/46.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/46.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/46.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/47.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/47.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/48.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/49.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/49.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/49.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/49.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/49.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/49.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/50.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/50.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/50.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/50.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/51.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/51.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/51.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/51.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/52.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/52.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/52.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/52.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/52.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/52.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/53.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/53.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/53.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/53.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/53.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/53.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/54.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/54.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/54.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/54.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/55.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/56.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/56.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/56.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/56.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/57.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/57.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/57.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/57.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/57.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/57.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/58.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/58.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/58.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/58.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/59.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/60.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/60.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/60.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/60.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/61.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/61.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/61.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/61.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/61.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/61.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/62.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/63.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/63.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/63.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/63.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/64.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/64.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/64.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/64.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/66.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/66.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/66.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/66.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/66.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/66.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/67.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/67.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/67.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/67.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/68.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/68.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/68.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/68.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/69.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/69.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/69.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/69.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/70.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/70.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/70.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/70.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/71.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/71.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/71.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/71.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/72.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/72.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/72.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/72.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/72.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/72.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/73.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/73.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/73.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/73.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/74.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/74.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/74.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/74.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/75.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/75.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/75.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/75.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/76.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/76.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/76.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/76.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/76.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/76.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/77.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/77.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚钳是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/77.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/77.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/78.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/78.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/78.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/78.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/79.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/79.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/79.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/79.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/80.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/80.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/80.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/80.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/81.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/81.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/81.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/81.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/82.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/83.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/84.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/85.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/85.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/85.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/85.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/86.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/86.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/86.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/86.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/86.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/86.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/87.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/87.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/87.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/87.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/87.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/87.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/88.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/88.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/88.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/88.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/88.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/88.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/89.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/89.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/89.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/89.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，分液漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/90.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/91.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/91.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/91.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/91.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/92.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/92.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/92.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/92.jpg",
+        "prompt": "图片代表某个化学实验的场景，水槽是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/92.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/92.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，镊子是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管夹是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/93.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/94.jpg",
+        "prompt": "图片代表某个化学实验的场景，冷凝管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/94.jpg",
+        "prompt": "图片代表某个化学实验的场景，温度计是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/94.jpg",
+        "prompt": "图片代表某个化学实验的场景，蒸发皿是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/94.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，移液管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/95.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/96.jpg",
+        "prompt": "图片代表某个化学实验的场景，长颈漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/96.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/96.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/96.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/96.jpg",
+        "prompt": "图片代表某个化学实验的场景，细口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/96.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，胶头滴管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，三脚架是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，天平是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/97.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/98.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/98.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/98.jpg",
+        "prompt": "图片代表某个化学实验的场景，广口瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/98.jpg",
+        "prompt": "图片代表某个化学实验的场景，导气管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/98.jpg",
+        "prompt": "图片代表某个化学实验的场景，锥形瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/98.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/99.jpg",
+        "prompt": "图片代表某个化学实验的场景，护目镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/99.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/99.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/99.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/99.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/99.jpg",
+        "prompt": "图片代表某个化学实验的场景，燃烧匙是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/100.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/100.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/100.jpg",
+        "prompt": "图片代表某个化学实验的场景，量筒是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/100.jpg",
+        "prompt": "图片代表某个化学实验的场景，坩埚是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/101.jpg",
+        "prompt": "图片代表某个化学实验的场景，防护手套是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/101.jpg",
+        "prompt": "图片代表某个化学实验的场景，放大镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/101.jpg",
+        "prompt": "图片代表某个化学实验的场景，试管是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/101.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/101.jpg",
+        "prompt": "图片代表某个化学实验的场景，容量瓶是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/101.jpg",
+        "prompt": "图片代表某个化学实验的场景，酒精灯是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/102.jpg",
+        "prompt": "图片代表某个化学实验的场景，普通漏斗是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/102.jpg",
+        "prompt": "图片代表某个化学实验的场景，玻璃棒是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/102.jpg",
+        "prompt": "图片代表某个化学实验的场景，烧杯是否在该场景中？用一个字（是或否）回答。",
+        "label": "是"
+    },
+    {
+        "img": "finetune-data/test/102.jpg",
+        "prompt": "图片代表某个化学实验的场景，石棉网是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/102.jpg",
+        "prompt": "图片代表某个化学实验的场景，显微镜是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    },
+    {
+        "img": "finetune-data/test/102.jpg",
+        "prompt": "图片代表某个化学实验的场景，滴定管是否在该场景中？用一个字（是或否）回答。",
+        "label": "否"
+    }
+]
